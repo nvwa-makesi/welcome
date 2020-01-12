@@ -81,9 +81,6 @@ https://github.com/bigdongdongCLUB/newGCP/issues/1
 
 自己根据型号来找
 
->[https://github.com/hq450/fancyss_history_package/tree/master/fancyss_hnd](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_hnd)
-
->AC86U AC5300 等新款架构的点上面那个下载插件
 
 # 科学上网 客户端下载
 
