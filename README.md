@@ -77,13 +77,9 @@ https://github.com/bigdongdongCLUB/newGCP/issues/1
 说直白点就是用新账户获得了300赠金 然后过继给 老账户使用 以后各种玩耍还是在老账户上进行
 
 #             梅林 科学上网插件 离线安装包
->[https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm)
+>[https://github.com/hq450/fancyss](https://github.com/hq450/fancyss)
 
->华硕系列：RT-AC56U RT-AC68U RT-AC66U-B1 RT-AC1900P RT-AC87U RT-AC88U RT-AC3100 RT-AC3200 RT-AC5300
-网件系列：R6300V2 R6400 R6900 R7000 R8000 R8500
-linksys EA系列：EA6200 EA6400 EA6500v2 EA6700 EA6900
-华为：ws880
-以上型号点上面的那个连接下载插件 下载最新版本就OK
+自己根据型号来找
 
 >[https://github.com/hq450/fancyss_history_package/tree/master/fancyss_hnd](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_hnd)
 
