@@ -116,4 +116,4 @@ https://github.com/bigdongdongCLUB/newGCP/issues/1
 
 # 我所使用过的各种机场
 
-[https://github.com/bigdongdongCLUB/ssv2proxy](https://github.com/bigdongdongCLUB/ssv2proxy)
+[https://github.com/bigdongdongCLUB/ssv2proxy/issues/2](https://github.com/bigdongdongCLUB/ssv2proxy/issues/2)
