@@ -13,14 +13,6 @@
 1：绑定境外手机号
 2：电报里找到 https://t.me/SpamBot 这个机器人 点击开始 然后选择 BUT i can't......然后选择 NO.i'll never...... 然后再最后手动输入一个accident 然后发送出去 最后等个一个来小时就应该解除啦！！
 
-
-###                    telegram代理
-TG代理封堵太严重 暂时不提供了
-
->TG代理：[https://bigdongdongclub.github.io/TelegramProxy/](https://bigdongdongclub.github.io/TelegramProxy/)
-
-点击上面链接内有TG代理  可以让TG在不用挂翻墙工具单独使用。
-
 #                      电视盒子相关
 >各种盒子性能介绍：[https://docs.google.com/spreadsheets/d/1EBG4tRTmgaf-zXUKg1YcoTxoERwROcYD-DU2sHjuC6o/edit#gid=0](https://docs.google.com/spreadsheets/d/1EBG4tRTmgaf-zXUKg1YcoTxoERwROcYD-DU2sHjuC6o/edit#gid=0)
 
