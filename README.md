@@ -66,6 +66,8 @@ https://github.com/bigdongdongCLUB/newGCP/issues/1
 * 6：进**新的谷歌云账户** 点结算 右侧权限下面 结算账户管理员 （此刻应该里面有两个谷歌云账户）删除新注册的这个谷歌云账户 这个谷歌云账户就没啥用了
 说直白点就是用新账户获得了300赠金 然后过继给 老账户使用 以后各种玩耍还是在老账户上进行
 
+>结算账户相关页面 [链接](https://cloud.google.com/billing/docs/onboarding-checklist?authuser=2&hl=zh-CN&_ga=2.177582501.-1012313419.1565203882#checklist_3)
+
 #             梅林 科学上网插件 离线安装包
 >[https://github.com/hq450/fancyss](https://github.com/hq450/fancyss)
 
