@@ -108,4 +108,4 @@ https://github.com/bigdongdongCLUB/newGCP/issues/1
 
 # 我所使用过的各种机场
 
-[https://bigdongdongclub.github.io/hello-world/](https://bigdongdongclub.github.io/hello-world/)
+[https://bigdongdongclub.github.io/hello-world/](https://github.com/bigdongdongCLUB/hello-world/issues/2)
