@@ -220,6 +220,7 @@ df -h
 5、自动挂载
 
 cat > /etc/systemd/system/rclone.service <<EOF
+
 [Unit]
 Description=Rclone
 AssertPathIsDirectory=LocalFolder
