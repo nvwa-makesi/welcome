@@ -228,8 +228,8 @@ After=network-online.target
 
 [Service]
 Type=simple
-ExecStart=/usr/bin/rclone mount emby: /home/gdrive \
 
+ExecStart=/usr/bin/rclone mount emby: /home/gdrive \
  --umask 0000 \
  --default-permissions \
  --allow-non-empty \
