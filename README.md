@@ -201,13 +201,14 @@ e/n/d/r/c/s/q> q
 
 mkdir -p /home/gdrive
 
-/usr/bin/rclone mount emby: /home/gdrive \
+/usr/bin/rclone mount gdrive1: /home/gdrive1 \
  --umask 0000 \
  --default-permissions \
  --allow-non-empty \
  --allow-other \
  --buffer-size 32M \
  --dir-cache-time 12h \
+ --vfs-cache-mode full \
  --vfs-read-chunk-size 64M \
  --vfs-read-chunk-size-limit 1G &
 
