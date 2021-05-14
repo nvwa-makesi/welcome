@@ -229,6 +229,7 @@ After=network-online.target
 [Service]
 Type=simple
 ExecStart=/usr/bin/rclone mount emby: /home/gdrive \
+
  --umask 0000 \
  --default-permissions \
  --allow-non-empty \
@@ -237,6 +238,7 @@ ExecStart=/usr/bin/rclone mount emby: /home/gdrive \
  --dir-cache-time 12h \
  --vfs-read-chunk-size 64M \
  --vfs-read-chunk-size-limit 1G
+
 ExecStop=/bin/fusermount -u LocalFolder
 Restart=on-abort
 User=root
